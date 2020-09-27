@@ -1,4 +1,4 @@
-# ABACCheckingTool
+# ABAC-Policy-Verification-Tool
 Tool check ABAC for application
 
 # Version

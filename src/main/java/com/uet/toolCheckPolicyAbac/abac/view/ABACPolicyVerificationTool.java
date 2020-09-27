@@ -50,7 +50,7 @@ public class ABACPolicyVerificationTool extends javax.swing.JFrame {
         jTextField3.setEditable(false);
         jTextArea1.setEditable(false);
         jTextArea2.setEditable(false);
-//        jTextArea3.setEditable(false);
+        jTextArea3.setEditable(false);
     }
 
     /**
@@ -565,7 +565,7 @@ public class ABACPolicyVerificationTool extends javax.swing.JFrame {
         } catch (Exception e){
             this.activeAllButton();
         }
-    }                                     
+    }
 
     private void jButton4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton4ActionPerformed
         this.disableAllButton();
